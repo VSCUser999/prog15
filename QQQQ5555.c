@@ -22,7 +22,7 @@ int main (){
         x--;
         printf("%d %d\n",x,y);
     }
-    if(x >= 32760) printf("NO\n");
+    if(x >= 32760) printf("No\n");
 }
     
 int func(int n){
